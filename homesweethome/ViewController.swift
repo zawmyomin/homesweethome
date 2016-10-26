@@ -16,6 +16,8 @@ class ViewController: UIViewController {
     
     print("Did Load")
     
+    print("New Upadated Data")
+    
   }
 
   override func didReceiveMemoryWarning() {
